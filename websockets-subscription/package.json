@@ -1,0 +1,13 @@
+{
+  "name": "dayswaps-websockets-example",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "subscribe": "node index.js"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.6.2",
+    "apollo-link-ws": "^1.0.20",
+    "ws": "^8.6.0"
+  }
+}

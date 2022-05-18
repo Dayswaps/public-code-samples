@@ -34,6 +34,7 @@ wsClient.subscribe({
       obj {
         id
         userId
+        positionId
         workTime
         period {
           start
